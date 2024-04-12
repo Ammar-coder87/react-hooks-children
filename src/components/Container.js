@@ -19,3 +19,11 @@ function Container({
 }
 
 export default Container;
+
+
+//This component renders a container with some optional header and children.
+//It takes props such as header, textPosition, direction, and contentPosition.
+//header: Displays a header if provided.
+//textPosition: Aligns the text content within the container (left, right, or center).
+//direction: Specifies the layout direction of children (vertical or horizontal).
+//contentPosition: Aligns the children within the container (left, right, or center).

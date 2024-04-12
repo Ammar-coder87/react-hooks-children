@@ -36,3 +36,9 @@ function App() {
 }
 
 export default App;
+
+
+
+//This component renders two instances of the Container component with different configurations and children.
+//The first Container has a horizontal layout direction and multiple text elements as children.
+//The second Container has a centered text position and multiple image elements as children.
